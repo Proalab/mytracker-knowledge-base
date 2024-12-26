@@ -1,6 +1,6 @@
 # How often do you update reimburesement rates?
 
-In MyWay Mileage Tracker, we update reimbursement rates based on each country’s financial year and tax authority guidelines:
+In MileView Mileage Tracker, we update reimbursement rates based on each country’s financial year and tax authority guidelines:
 
 * **USA**: Updated when the IRS releases new rates, typically in December, with the new rates effective from the start of the year.
 * **Canada**: Rates are updated when the Canada Revenue Agency (CRA) publishes new guidelines, usually at the end of December for the upcoming year.

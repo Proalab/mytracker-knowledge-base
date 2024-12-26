@@ -1,10 +1,10 @@
-# Why did MyWay Tracker catch an extra drive?
+# Why did MileView Tracker catch an extra drive?
 
 Extra drives can happen for a few simple reasons, and here’s what might be causing it:
 
 ## Logged into Multiple Devices
 
-If you’re using the same MyWay account on multiple devices (e.g., an iPhone and iPad, or an iPhone and Android), the app might get confused. Running the tracker on two devices simultaneously can create duplicate or phantom drives.
+If you’re using the same MileView account on multiple devices (e.g., an iPhone and iPad, or an iPhone and Android), the app might get confused. Running the tracker on two devices simultaneously can create duplicate or phantom drives.
 
 **Solution:**&#x20;
 
@@ -23,5 +23,5 @@ Speed up the location update by opening Apple Maps or Google Maps while connecte
 If neither of the above applies, there might be a setup issue affecting drive detection. Check out our [Drive Detection Best Practices](drive-detection-best-practices.md) for tips on optimizing your device to avoid extra or missed drives.
 
 {% hint style="info" %}
-At MyWay, we err on the side of caution by recording uncertain drives rather than discarding them to ensure you don’t lose important trips. If you suspect an issue, review the above steps to fine-tune your tracking experience.
+At MileView, we err on the side of caution by recording uncertain drives rather than discarding them to ensure you don’t lose important trips. If you suspect an issue, review the above steps to fine-tune your tracking experience.
 {% endhint %}

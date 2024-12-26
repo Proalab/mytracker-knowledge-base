@@ -2,13 +2,13 @@
 description: Learn why routes might not look correct at first glance.
 ---
 
-# The route MyWay Tracker produced doesn't look correct
+# The route MileView Tracker produced doesn't look correct
 
 If the route looks off, here’s why and how to address it:
 
 ## **How it works**
 
-MyWay Tracker primarily uses GPS to track your drives. For the most accurate results, your phone needs a stable connection with GPS satellites. However, in situations like tunnels, underground parking, or covered areas, direct GPS access might not be available. In those cases, the app relies on alternative methods like WiFi signals, mobile networks, or motion data. These methods can help but are less precise and may result in inaccuracies.
+MileView Tracker primarily uses GPS to track your drives. For the most accurate results, your phone needs a stable connection with GPS satellites. However, in situations like tunnels, underground parking, or covered areas, direct GPS access might not be available. In those cases, the app relies on alternative methods like WiFi signals, mobile networks, or motion data. These methods can help but are less precise and may result in inaccuracies.
 
 ## **Improving accuracy**
 

@@ -4,7 +4,7 @@ description: Where do we store your data.
 
 # Your privacy and where we store your data
 
-At MyWay Mileage Tracker, your privacy is our top priority. We firmly believe that your data belongs to you and should remain accessible only to you.&#x20;
+At MileView Mileage Tracker, your privacy is our top priority. We firmly believe that your data belongs to you and should remain accessible only to you.&#x20;
 
 **Where is your data stored?**&#x20;
 

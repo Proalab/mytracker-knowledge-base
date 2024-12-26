@@ -1,10 +1,10 @@
 ---
-description: Does MyWay Mileage Tracker work in your country and town?
+description: Does MileView Mileage Tracker work in your country and town?
 ---
 
-# Does MyWay Mileage Tracker work in my area?
+# Does MileView Mileage Tracker work in my area?
 
-MyWay Mileage Tracker brings together the latest maps and address databases from Google Maps, Mapbox, Here, and OpenStreetMap—all in one app. This means it works anywhere in the world, offering the most comprehensive address coverage available. With cutting-edge tracking tech and automatic trip recognition, it’s built to be the most accurate mileage tracker out there.
+MileView Mileage Tracker brings together the latest maps and address databases from Google Maps, Mapbox, Here, and OpenStreetMap—all in one app. This means it works anywhere in the world, offering the most comprehensive address coverage available. With cutting-edge tracking tech and automatic trip recognition, it’s built to be the most accurate mileage tracker out there.
 
 We operate in most countries worldwide and include mileage rates for many of them. If your region isn’t covered, you can easily set up custom rates and use them wherever you need. Here’s a snapshot of where most of our users live and work:
 

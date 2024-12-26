@@ -23,6 +23,6 @@ You can change or add a payment method by following these instructions:
 * Tap the profile icon in the top right-hand corner of the screen
 * Tap Payments and subscriptions
 * Tap Subscriptions
-* Tap on MyWay Route Planner
+* Tap on MileView
 * Next to Primary payment method, tap Update
 * Follow the on-screen instructions to update your payment method.

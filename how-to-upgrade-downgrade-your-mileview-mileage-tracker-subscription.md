@@ -2,7 +2,7 @@
 description: Learn about how to upgrade/downgrade your subscription
 ---
 
-# How to upgrade/downgrade your MyWay Mileage Tracker subscription?
+# How to upgrade/downgrade your MileView Mileage Tracker subscription?
 
 If you want to upgrade/downgrade a subscription, you can do this by simply following the next steps.
 
@@ -14,7 +14,7 @@ You can change your subscription from your Apple Settings
 * Make sure you're signed in with the correct Apple ID.
 * Tap your name
 * Tap "Subscriptions"
-* Select the MyWay subscription (\*)
+* Select the MileView subscription (\*)
 * Select a new subscription type from the available options
 * Confirm new subscription
 
@@ -27,10 +27,10 @@ You can change your subscription from your Google Play Store
 * Tap "Payments and Subscriptions"
 * Tap the profile icon in the top right-hand corner of the screen
 * Go to "Subscriptions"
-* Select the MyWay subscription (\*)
+* Select the MileView subscription (\*)
 * Select a new subscription type from the available options.
 * Confirm new subscription
 
 {% hint style="warning" %}
-\*If MyWay is not shown in your list of subscriptions, it means you don't have an active subscription for this account.
+\*If MileView is not shown in your list of subscriptions, it means you don't have an active subscription for this account.
 {% endhint %}

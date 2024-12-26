@@ -1,6 +1,6 @@
-# What languages does MyWay support?
+# What languages does MileView support?
 
-MyWay Mileage Tracker is currently translated to:
+MileView Mileage Tracker is currently translated to:
 
 * English
 * German
